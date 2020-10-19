@@ -1,0 +1,74 @@
+body {
+  background-color: powderblue;
+}
+h3 {
+
+
+position: relative;
+
+
+
+  left: 100px;
+
+
+
+
+
+
+
+
+  color: blue;
+  
+  width :800px;
+  height :25px;
+  
+  right : 100px;
+  
+  
+  
+  font-family: courier;
+  font-size: 200%;
+  
+}
+
+input {
+
+
+
+
+position: absolute;
+
+
+
+  left: 100px;
+
+
+
+
+
+
+
+
+
+
+    
+  color: blue;
+  
+  width :800px;
+  height :70px;
+  
+  
+  left: -100 px;
+  
+  font-family: courier;
+  font-size: 150%;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
